@@ -1,0 +1,2 @@
+pip install pyinstaller
+pyinstaller --onefile --windowed --name "Timo Renamer" --icon="C:\Users\PC-05\Desktop\T\Renamer\blood_moon.ico" --add-data "C:\Users\PC-05\Desktop\T\Renamer\blood_moon.ico;." renamer.py

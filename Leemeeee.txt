@@ -1,0 +1,1 @@
+Si haces alguna modificacion al archivo de python, con el archivo que se llama Crear Exe se va a crear automaticamente el ejecutable para pasarselo a los demas, adentro de la carpeta dist, pero tiene que estar vacia esa carpeta
